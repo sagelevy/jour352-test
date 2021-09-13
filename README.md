@@ -1,2 +1,2 @@
-# jour352-test
+# jour352
 Test for learning how to create repo
